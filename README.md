@@ -45,6 +45,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 
-![nft market](https://user-images.githubusercontent.com/69580963/142754325-a7d1f759-8c14-4fb7-aaf1-4dfca2048c7a.png)
 
 ```
+
+![nft market](https://user-images.githubusercontent.com/69580963/142754325-a7d1f759-8c14-4fb7-aaf1-4dfca2048c7a.png)
